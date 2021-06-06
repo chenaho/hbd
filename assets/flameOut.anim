@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flameOut",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "d90f4e1e-a229-4b8c-9148-279a6b51c1dc"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "686412ce-b340-4b9c-abda-d645dc182eae"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "3eee5cbd-4453-42ce-82a9-f2361ae14c13"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "2a4c6da6-67b8-4660-bbd0-4401b7501906"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "9ec396d1-ca30-4fb8-a250-e092c8a43dd4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d8859095-ba12-4105-8742-75e243ff5cf1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 577,
+  "platformSettings": {},
+  "subMetas": {
+    "pine_forest_by_boneswolbach_d9tshtb-fullview": {
+      "ver": "1.0.4",
+      "uuid": "5df73dd7-a269-4336-97e2-4bed4543bc15",
+      "rawTextureUuid": "d8859095-ba12-4105-8742-75e243ff5cf1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 577,
+      "rawWidth": 1024,
+      "rawHeight": 577,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
