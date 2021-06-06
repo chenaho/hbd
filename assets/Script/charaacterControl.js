@@ -44,6 +44,9 @@ cc.Class({
         btnFinishNodes:  [cc.Node],
         btnAfterNodes:  [cc.Node],
 
+        btnFinishNodesAnimate:  cc.Node,
+        btnFinishNodesAnimate2:  cc.Node,
+
 
         // foo: {
         //     // ATTRIBUTES:
@@ -84,6 +87,14 @@ cc.Class({
                 this.btnStartNodes.forEach(item => item.active = false);
                 this.btnFinishNodes.forEach(item => item.active = true);
                 this.btnAfterNodes.forEach(item => item.active = false);
+
+
+                var anim = this.btnFinishNodesAnimate.getComponent(cc.Animation);
+                anim.play();
+
+                anim = this.btnFinishNodesAnimate2.getComponent(cc.Animation);
+                anim.play();
+                
 
                 break;              
 

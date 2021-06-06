@@ -2148,11 +2148,17 @@
         "__id__": 40
       }
     ],
+    "btnFinishNodesAnimate": {
+      "__id__": 29
+    },
+    "btnFinishNodesAnimate2": {
+      "__id__": 34
+    },
     "_id": "9bJn8DbbdKy6KTxkYPuCpg"
   },
   {
     "__type__": "cc.Node",
-    "_name": "body01",
+    "_name": "body02",
     "_objFlags": 0,
     "_parent": {
       "__id__": 1
@@ -3774,6 +3780,12 @@
         "__id__": 75
       }
     ],
+    "btnFinishNodesAnimate": {
+      "__id__": 64
+    },
+    "btnFinishNodesAnimate2": {
+      "__id__": 69
+    },
     "_id": "cdAa9PrNNBh6QFDHL65Q56"
   }
 ]
